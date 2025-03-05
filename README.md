@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chocarlos5?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
 **chocarlos5/chocarlos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
